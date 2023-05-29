@@ -17,6 +17,7 @@ public class Mondayexample {
         System.out.println("learning github operations");
          System.out.println("learning github operations pull");
           System.out.println("learning github operations +merge");
+          System.out.println("Hello!");
     }
     
 }
